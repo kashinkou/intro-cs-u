@@ -1,1 +1,1 @@
-# intro-cs-u
+# Intro to Computer Science from Udacity 
